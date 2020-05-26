@@ -32,12 +32,12 @@
         두줄 들여쓰기
             세줄 들여쓰기
 
-`public class Bootstartup {
+```public class Bootstartup {
     public static void main(String[] args) {
 		System.out.println("hello~ Markdown");
     }
 }
-
+```
 
 ***
 * * *
